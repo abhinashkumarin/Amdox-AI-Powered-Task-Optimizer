@@ -3,10 +3,10 @@ import ssl
 from email.message import EmailMessage
 from datetime import datetime
 
-# 🔐 EMAIL CONFIG
-EMAIL = "abcom099786@gmail.com"              # sender
-APP_PASSWORD = "ydgk ncjh bcgn xkng"
-RECEIVER = "abhipatna989@gmail.com"        # HR email
+# 🔐 CONFIG (CHANGE THESE)
+EMAIL = "yourgmail@gmail.com"     # sender
+APP_PASSWORD = "your_16_digit_app_password" 
+RECEIVER = "hrdepartment@gmail.com"  # HR email
 
 
 def notify_hr(emp, emotion, conf, source):
