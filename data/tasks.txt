@@ -1,0 +1,7 @@
+Happy:Creative work
+Sad:Light work + break
+Angry:Cooling task
+Neutral:Routine work
+Fear:Support task
+Surprise:Exploration task
+Disgust:Low interaction task
