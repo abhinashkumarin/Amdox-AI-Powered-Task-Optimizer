@@ -11,9 +11,9 @@ import smtplib
 from email.message import EmailMessage
 from datetime import datetime
 
-HR_EMAIL = "abhipatna989@gmail.com"
-SENDER_EMAIL = "abcom099786@gmail.com"
-APP_PASSWORD = "ydgk ncjh bcgn xkng"   
+HR_EMAIL = "..........................."
+SENDER_EMAIL = "........................"
+APP_PASSWORD = "........................"   
 # "YOUR_16_DIGIT_APP_PASSWORD" 
 
 def notify_hr(employee_id, emotion, confidence):
